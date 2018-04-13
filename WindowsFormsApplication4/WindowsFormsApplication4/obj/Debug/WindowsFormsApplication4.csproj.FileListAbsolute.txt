@@ -1,0 +1,14 @@
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\OpenTK.dll
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\OpenTK.GLControl.dll
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\OpenTK.xml
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\OpenTK.GLControl.xml
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MathNet.Numerics.dll
+D:\Kuliah\TVG\GL\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MathNet.Numerics.xml
